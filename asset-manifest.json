@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/integrador702/static/css/main.dd52e4eb.css",
+    "main.js": "/integrador702/static/js/main.23c32187.js",
+    "static/js/453.ebcd9aff.chunk.js": "/integrador702/static/js/453.ebcd9aff.chunk.js",
+    "index.html": "/integrador702/index.html",
+    "main.dd52e4eb.css.map": "/integrador702/static/css/main.dd52e4eb.css.map",
+    "main.23c32187.js.map": "/integrador702/static/js/main.23c32187.js.map",
+    "453.ebcd9aff.chunk.js.map": "/integrador702/static/js/453.ebcd9aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd52e4eb.css",
+    "static/js/main.23c32187.js"
+  ]
+}
